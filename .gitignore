@@ -1,0 +1,13 @@
+# Richard Donato
+#1973354
+
+#1.	Created constants needed for the mongo client, url, and file system fs. 
+#2.	Connected to the MongoClient and disabled error message . 
+#3.	Next connected to the database, then the collection. 
+#4.	Read the data from the JSON file and parsed it to an object so I could insert it into the collection. 
+#5.	Used a forEach loop to insert the record into the collection. 
+
+
+*.docx
+*.json
+node_modules/
